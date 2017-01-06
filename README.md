@@ -11,6 +11,7 @@ Storage | 8GB
 Battery | 3000 mAh
 Display | 5" 1280 x 720 px
 Camera  | 8MPx, LED Flash
+kernel  |3.10.54
 
 This branch is for building CyanogenMod 12.1 (or Android Lollipop 5.1 AOSP based roms) ROMS.
 
